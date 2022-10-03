@@ -1,16 +1,24 @@
 body {
 	height: 100%;
 	margin: 0;
-	text-align: center;
 	width: 100%;
 }
 
 h1 {
-	font-size: 32px;
-  font-family: Palatino, 'Palatino Linotype', serif;
-  color: rgb(46,105,163);
+	font-size: 1.0rem;
+  	font-family: Palatino, 'Palatino Linotype', serif;
+  	color: black;
 }
 
 h2 {
 	font-size: 56px;
 }
+
+.hero {
+	color: #ffffff;
+	padding: 250px 0;
+	margin: 30px;
+  	background-image: url("https://content.codecademy.com/projects/make-a-website/lesson-2/bg.jpg");
+  	background-size: cover;
+}	
+
